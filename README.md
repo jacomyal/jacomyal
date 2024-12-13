@@ -7,7 +7,7 @@ I'm part of the innovative team at **[OuestWare](https://www.ouestware.com)**, a
 As a part of my work at OuestWare, I'm the main developer and maintainer of **[sigma.js](https://sigmajs.org)**, an open-source library focused on efficiently displaying networks within web pages.
 
 We also develop:
-- **[Gephi Lite](https://gephi.org/gephi-lite/)** a web-based, lighter version of [Gephi](https://gephi.org/), the networks visualization and exploration software;
+- **[Gephi Lite](https://gephi.org/gephi-lite/)**, a web-based, lighter version of [Gephi](https://gephi.org/), the networks visualization and exploration software;
 - **[Retina](https://ouestware.gitlab.io/retina)**, a web application to share graph visualizations online.
 
 Finally, I sometimes write on [🐘 Mastodon](https://vis.social/@jacomyal) or on [🗒 OuestWare's blog](https://www.ouestware.com/en/blog/).
